@@ -1,1 +1,3 @@
 # sentiment_analysis_model
+
+huggingfaceの学習済みモデルを用いた文章の感情分類モデル。
